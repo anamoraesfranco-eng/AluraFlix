@@ -1,0 +1,18 @@
+body {
+     background:black;
+     color: white
+}
+
+header {
+     
+     border-bottom: solid 2px rgb (42, 128, 127)̣;
+     padding: 20px;
+     font-size: 40px;
+     color: rgb(224, 28, 28);
+}
+
+ section {
+  background: pink;
+  padding-bottom: 80px;
+  padding-top: 80px;
+ }
